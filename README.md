@@ -1,3 +1,3 @@
 # Giftastic
  
-# This project uses the Giphy API to display GIFs pretaining to name of the button clicked. Additional buttons can also be added and then used to display GIFs.
+This project uses the Giphy API to display GIFs pretaining to name of the button clicked. Additional buttons can also be added and then used to display GIFs.
