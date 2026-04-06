@@ -33,3 +33,7 @@ Try it here: https://giftastic-six.vercel.app
 
 ## Purpose
 This project demonstrates early experience with API integration, DOM manipulation, and building interactive frontend applications.
+
+
+## Demo
+![App Demo](demo.gif)
